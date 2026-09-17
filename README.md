@@ -36,10 +36,19 @@ Hardware & Silicon Engineering:
   - Institute: Industrial University of Ho Chi Minh City (IUH)
 
 AI Red-Teaming & Dark Magic:
-  - Frontier LLM Jailbreak: OpenAI (GPT-4o/o1/o3), Anthropic (Claude 3.5/3.7),
-    Google (Gemini 2.0), Meta (Llama 3.3), DeepSeek (R1/V3), Alibaba (Qwen 2.5),
-    xAI (Grok), Zhipu AI (GLM-4), Tencent (HY3)
-  - Exploits: RLHF / DPO bypass, refusal vector neutralization, multi-turn adversarial framing
+  - Frontier LLM Jailbreak:
+      • OpenAI: GPT-4o, GPT-4.5, o1 / o1-pro, o3 / o3-mini, o3-pro
+      • Anthropic: Claude 3.5 Sonnet, Claude 3.7 Sonnet (Hybrid Reasoning)
+      • Google: Gemini 1.5 Pro, Gemini 2.0 Flash / Pro, Flash Thinking
+      • DeepSeek: DeepSeek-V3, DeepSeek-R1 (Reasoning RL)
+      • xAI: Grok 2, Grok 3 (Colossus / Think Mode)
+      • Meta: Llama 3.1, Llama 3.2, Llama 3.3 (70B)
+      • Alibaba: Qwen 2.5 (72B/Coder), QwQ-32B, Qwen-Max
+      • Mistral AI: Mistral Large 2, Mixtral 8x22B, Pixtral Large
+      • Zhipu AI: GLM-4, GLM-4-Plus, GLM-Zero
+      • Tencent: Hunyuan 3 (HY3), Hunyuan-Turbo, Hunyuan-Large
+      • Moonshot AI: Kimi k1.5 Long-Context Reasoning
+  - Exploits: RLHF / DPO bypass, refusal vector neutralization, CoT / reasoning-token suppression, multi-turn adversarial framing
   - Cognitive Staging: LLM neural director orchestrating SDXL prompt engineering & scene geometry
   - Counter-Hacking: Anti-jailbreak mechanism extraction & adaptive payload evasion (Claude / GPT)
 
