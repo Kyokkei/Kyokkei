@@ -29,33 +29,40 @@ Yahallo! I'm **Yozora** (Phan Chí Vỹ / `@Kyokkei`). IC Design student at **IU
 
 ### 🧬 Technical Loadout
 
+<div align="center">
+  <img src="./asset/loadout.svg" width="800" alt="Technical Loadout - yozora@hoshimiya" />
+</div>
+
+<details>
+<summary><b>📋 Copy-paste / screen-reader version</b></summary>
+
 ```yaml
 Hardware & Silicon Engineering:
   - Domain: ASIC & FPGA Architecture, RTL Design
   - Hardware: Verilog, SystemVerilog, Digital Logic Synthesis
   - Institute: Industrial University of Ho Chi Minh City (IUH)
 
-AI Red-Teaming & Dark Magic:
-  - Frontier LLM Jailbreak:
-      • OpenAI: All legacy & modern models up to GPT-6
-      • Anthropic: Claude 4.0, 4.1, 4.5, 5.0
-      • Google: Gemini 3.1 Pro, 3.5, 3.6, 3.7, 3.8 Flash
-      • DeepSeek: DeepSeek-V4, DeepSeek-V4.1
-      • xAI: Grok 4.3
-      • Meta: Llama 70B
-      • Alibaba: Qwen 3.8
-      • Zhipu AI: GLM 5.3
-      • Moonshot AI: Kimi k3
-      • Tencent: Hunyuan 3 (HY3), Hunyuan 4 (HY4)
-  - Exploits: RLHF / DPO bypass, refusal vector neutralization, CoT / reasoning-token suppression, multi-turn adversarial framing
-  - Cognitive Staging: LLM neural director orchestrating SDXL prompt engineering & scene geometry
-  - Counter-Hacking: Anti-jailbreak mechanism extraction & adaptive payload evasion (Claude / GPT)
+Frontier LLM Jailbreak Research:
+  - OpenAI: All legacy & modern models up to GPT-6
+  - Anthropic: Claude 4.0, 4.1, 4.5, 5.0
+  - Google: Gemini 3.1 Pro, 3.5, 3.6, 3.7, 3.8 Flash
+  - DeepSeek: DeepSeek-V4, DeepSeek-V4.1
+  - xAI: Grok 4.3
+  - Meta: Llama 70B
+  - Alibaba: Qwen 3.8
+  - Zhipu AI: GLM 5.3
+  - Moonshot AI: Kimi k3
+  - Tencent: Hunyuan 3 (HY3), Hunyuan 4 (HY4)
+  - Focus: RLHF / DPO bypass, refusal-vector study, CoT suppression, multi-turn framing
+  - Staging: LLM director for SDXL prompt engineering & scene geometry
+  - Safety: Alignment robustness analysis (Claude / GPT)
 
 Native Systems & Mobile Architecture:
   - Systems: Pure Rust, Win32 API (EmptyWorkingSet), Ratatui TUI, egui GUI
   - Android: Native Kotlin, Jetpack Compose, Room SQLite, Coroutines, Pure Java 17
   - Extensibility: Model Context Protocol (MCP) Server Architecture
 ```
+</details>
 
 ---
 
