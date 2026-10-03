@@ -1,40 +1,69 @@
-# 🌌 Yozora · Phan Chí Vỹ
+<div align="center">
 
-<div align="left">
+<a href="https://hoshimiya.dev">
+  <img src="./asset/hero.svg" width="100%" alt="Yozora — Phan Chí Vỹ. IC design, frontier AI jailbreak research, and native systems under a midnight sky." />
+</a>
 
-[![Website](https://img.shields.io/badge/Personal_Interface-hoshimiya.dev-7aa2f7?style=for-the-badge&logo=safari&logoColor=white)](https://hoshimiya.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Kyokkei-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kyokkei)
-[![Discord](https://img.shields.io/badge/Discord-kei__akashi.-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Status](https://img.shields.io/badge/Signal-Active-22c55e?style=for-the-badge)](https://hoshimiya.dev)
+**[Website ↗](https://hoshimiya.dev)** &nbsp; / &nbsp; **[Projects](#selected-projects)** &nbsp; / &nbsp; **[Technical loadout](#technical-loadout)** &nbsp; / &nbsp; **[Say hello](mailto:kyokkei@hoshimiya.dev)**
 
 </div>
 
-> *"To live is to risk it all otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you."* — Rick Sanchez
+## Yahallo, I'm Yozora.
 
-Yahallo! I'm **Yozora** (Phan Chí Vỹ / `@Kyokkei`). IC Design student at **IUH** (Industrial University of Ho Chi Minh City) by day, frontier AI jailbreak specialist and native systems builder by night. I break safety alignments, build zero-telemetry utilities, and engineer native applications.
+**Phan Chí Vỹ / `@Kyokkei`** · IC Design student at **IUH** (Industrial University of Ho Chi Minh City).
 
----
+Silicon by day. Frontier AI jailbreak research and native systems by night. I break safety alignments, build zero-telemetry utilities, and engineer applications that put control in the user's hands.
 
-### ⚡ Selected Artifacts
-
-| Repository | Stack | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **[Zora.AI](https://github.com/Kyokkei/Zora.AI)** | `Kotlin` `Jetpack Compose` `Gemini Live` | Flagship native Android AI companion with real-time duplex voice calling, gyro-parallax shader, and 100% encrypted local storage. | `v2.2.9` · Active |
-| **[Fukidashi MCP](https://github.com/Kyokkei/fukidashi-mcp)** | `Rust` `MCP` `RT-DETR` `egui` | Fully offline manga localization and typesetting MCP server with deep inpainting, Baberu OCR, and native QA editor. | `v0.1.0` · Active |
-| **[RamNuker](https://github.com/Kyokkei/RamNuker)** | `Pure Rust` `Win32 API` `Ratatui` | Ultra-clean ~1.6MB Windows working-set RAM purger with interactive terminal UI and Task Scheduler automation. | `v2.0.0` · Released |
-| **[ProjectBeta](https://github.com/Kyokkei/ProjectBeta)** | `Android` `Kotlin` `Gamification` | Gamified digital discipline protocol with BetaToken economics, loot case mechanics, and AI Keyholder enforcement. | `v1.0.0` · Released |
-| **[SekaiTimer](https://github.com/Kyokkei/SekaiTimer)** | `Java 17` `Zero-Dep` `Android Widget` | Zero-dependency Project SEKAI event tracker parsing MediaWiki syntax natively without 3rd-party libraries. | `v0.1.0` · Maintained |
+`Rust` &nbsp; `Kotlin` &nbsp; `Java` &nbsp; `Verilog` &nbsp; `SystemVerilog` &nbsp; `MCP`
 
 ---
 
-### 🧬 Technical Loadout
+## Selected projects
+
+### 01 / [Zora.AI ↗](https://github.com/Kyokkei/Zora.AI)
+
+**A native Android AI companion. Your API, your rules.**
+
+Real-time duplex voice, unrestricted persona customization, gyro-parallax visuals, and encrypted local storage. Built with direct device-to-model routing and zero telemetry.
+
+`Kotlin` · `Jetpack Compose` · `Room` · `Gemini Live`
+
+[![Zora.AI latest release](https://img.shields.io/github/v/release/Kyokkei/Zora.AI?style=flat-square&label=release&color=7aa2f7)](https://github.com/Kyokkei/Zora.AI/releases/latest) &nbsp; [Explore the app →](https://github.com/Kyokkei/Zora.AI#-interface-showcase)
+
+### 02 / [Fukidashi MCP ↗](https://github.com/Kyokkei/fukidashi-mcp)
+
+**A local manga localization studio for AI agents.**
+
+Offline vision, OCR, LaMa inpainting, and smart typesetting, connected through MCP. Review the result in a native QA editor before export.
+
+`Rust` · `MCP` · `RT-DETR` · `LaMa` · `egui`
+
+[![Fukidashi MCP latest release](https://img.shields.io/github/v/release/Kyokkei/fukidashi-mcp?style=flat-square&label=release&color=bb9af7)](https://github.com/Kyokkei/fukidashi-mcp/releases/latest) &nbsp; [See the pipeline →](https://github.com/Kyokkei/fukidashi-mcp#-demo-pipeline)
+
+### Also in orbit
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **[RamNuker](https://github.com/Kyokkei/RamNuker)** | Windows working-set RAM purger with a terminal UI and scheduled automation. | Rust · Win32 · Ratatui |
+| **[ProjectBeta](https://github.com/Kyokkei/ProjectBeta)** | Gamified digital discipline with BetaToken economics, loot cases, and an AI Keyholder. | Kotlin · Android |
+| **[SekaiTimer](https://github.com/Kyokkei/SekaiTimer)** | Project SEKAI event tracking in an Android widget, with a native MediaWiki parser. | Java 17 · Zero dependencies |
+
+**Research notes:** [AI models, IDEs, and jailbreak evaluations →](https://github.com/Kyokkei/AI-evaluation-report-2026)
+
+---
+
+## Technical loadout
+
+- **Silicon:** ASIC & FPGA architecture, RTL design, Verilog / SystemVerilog, and digital logic synthesis.
+- **Frontier AI jailbreak research:** RLHF / DPO bypass, refusal-vector study, CoT suppression, multi-turn framing, and alignment robustness analysis. LLM-directed SDXL prompt engineering and scene geometry.
+- **Native systems:** Rust, Win32, Ratatui, egui, Kotlin / Compose, Room, coroutines, Java, and MCP server architecture.
 
 <div align="center">
-  <img src="./asset/loadout.svg" width="800" alt="Technical Loadout - yozora@hoshimiya" />
+  <img src="./asset/loadout.svg" width="800" alt="Terminal-style technical loadout. The complete text version follows below." />
 </div>
 
 <details>
-<summary><b>📋 Copy-paste / screen-reader version</b></summary>
+<summary><b>Open the full loadout · plain text / screen readers</b></summary>
 
 ```yaml
 Hardware & Silicon Engineering:
@@ -68,18 +97,15 @@ Native Systems & Mobile Architecture:
 
 <div align="center">
 
-<a href="https://hoshimiya.dev">
-  <img src="https://hoshimiya.dev/asset/image/Handsig-white.png" width="220" alt="Phan Chí Vỹ Signature" />
-</a>
-
-<br>
-
 *"In the abyss of night, a single star remains — burning through the dark, defiant."*
 
-<br>
-
-**[🌐 hoshimiya.dev](https://hoshimiya.dev)** &nbsp;•&nbsp;
-**[✉️ kyokkei@hoshimiya.dev](mailto:kyokkei@hoshimiya.dev)** &nbsp;•&nbsp;
-**💬 Discord:** `kei_akashi.`
+**[hoshimiya.dev ↗](https://hoshimiya.dev)** &nbsp;·&nbsp; **[kyokkei@hoshimiya.dev](mailto:kyokkei@hoshimiya.dev)** &nbsp;·&nbsp; **Discord** `kei_akashi.`
 
 </div>
+
+<details>
+<summary>A line I live by</summary>
+
+> *"To live is to risk it all otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you."* — Rick Sanchez
+
+</details>
